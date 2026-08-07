@@ -35,25 +35,25 @@
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="50%" valign="top">
 
 ### `> whoami.exe`
 
 - **Name** : `iZlude`
-- **Role** : `Mobile Application Developer`
-- **Focus** : `Flutter // Android // Cross-Platform`
-- **Status** : `⚡ ONLINE — Crafting High-Performance Apps`
+- **Role** : `Software Engineer // Multi-Platform Dev`
+- **Focus** : `Mobile App // Web Dev // Backend Systems`
+- **Status** : `⚡ ONLINE — Engineering Full-Stack Solutions`
 
 ---
 
-Dedicated **Mobile App Engineer** yang berfokus pada pengembangan aplikasi **Flutter** & **Android** berkategori *high-performance*, **pixel-perfect**, dan kaya akan *micro-interactions*.
+Versatile **Software Engineer** dengan fokus pada ekosistem **Mobile (Flutter/Android)**, **Web Development**, dan **Backend API Systems**.
 
-Menerapkan prinsip **Clean Architecture**, pengelolaan state yang efisien, serta pengalaman UI/UX yang responsif dan intuitif layaknya game modern.
+Terbiasa membangun solusi software *end-to-end* — dari merancang arsitektur database & API backend, menciptakan antarmuka web yang responsif, hingga mendeploy aplikasi mobile lintas platform berkategori *high-performance* dan *pixel-perfect*.
 
-> *"Clean code is the foundation. Exceptional UI is the experience."*
+> *"Building scalable systems, crafting fluid interfaces, writing clean code."*
 
 </td>
-<td width="45%" valign="top">
+<td width="50%" valign="top">
 
 ### `> skill_matrix.exe`
 
@@ -61,20 +61,26 @@ Menerapkan prinsip **Clean Architecture**, pengelolaan state yang efisien, serta
 
 <img src="https://img.shields.io/badge/Flutter-0D0D0D?style=for-the-badge&logo=flutter&logoColor=00FFFF" alt="Flutter"/>
 <img src="https://img.shields.io/badge/Dart-0D0D0D?style=for-the-badge&logo=dart&logoColor=A855F7" alt="Dart"/>
+<img src="https://img.shields.io/badge/JavaScript-0D0D0D?style=for-the-badge&logo=javascript&logoColor=00FFFF" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/TypeScript-0D0D0D?style=for-the-badge&logo=typescript&logoColor=A855F7" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/Node.js-0D0D0D?style=for-the-badge&logo=nodedotjs&logoColor=00FFFF" alt="Node.js"/>
+<img src="https://img.shields.io/badge/HTML5/CSS3-0D0D0D?style=for-the-badge&logo=html5&logoColor=A855F7" alt="HTML5/CSS3"/>
 
 **[ DEV TOOLS & ENV ]**
 
-<img src="https://img.shields.io/badge/Android-0D0D0D?style=for-the-badge&logo=android&logoColor=00FFFF" alt="Android"/>
+<img src="https://img.shields.io/badge/Android%20Studio-0D0D0D?style=for-the-badge&logo=androidstudio&logoColor=00FFFF" alt="Android Studio"/>
 <img src="https://img.shields.io/badge/VS%20Code-0D0D0D?style=for-the-badge&logo=visualstudiocode&logoColor=A855F7" alt="VS Code"/>
 <img src="https://img.shields.io/badge/Git-0D0D0D?style=for-the-badge&logo=git&logoColor=00FFFF" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-0D0D0D?style=for-the-badge&logo=githubactions&logoColor=A855F7" alt="GitHub Actions"/>
+<img src="https://img.shields.io/badge/Postman-0D0D0D?style=for-the-badge&logo=postman&logoColor=00FFFF" alt="Postman"/>
 <img src="https://img.shields.io/badge/Termux-0D0D0D?style=for-the-badge&logo=gnometerminal&logoColor=A855F7" alt="Termux"/>
 
 **[ PROFICIENCY ]**
 
-- ⚡ **Flutter / Dart** `████████████░░ 88%`
-- 📱 **Android Dev** `███████████░░░ 80%`
-- 🔀 **Git / DevOps** `█████████░░░░░ 70%`
-- 🎨 **UI/UX & Motion** `████████░░░░░░ 65%`
+- 📱 **Mobile (Flutter/Android)** `████████████░░ 88%`
+- 🌐 **Web & Front-End** `███████████░░░ 82%`
+- ⚙️ **Backend & REST APIs** `█████████░░░░░ 75%`
+- 🔀 **Git & DevOps Tools** `█████████░░░░░ 72%`
 
 </td>
 </tr>
