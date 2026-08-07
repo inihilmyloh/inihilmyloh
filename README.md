@@ -37,47 +37,44 @@
 <tr>
 <td width="55%" valign="top">
 
-### `> whoami`
+### `> whoami.exe`
 
-```yaml
-name    : inihilmyloh
-class   : Mobile App Developer
-role    : Flutter Engineer
-server  : Android / Cross-Platform
-status  : ⚡ ONLINE — Currently Building
-```
+- **Name** : `iZlude`
+- **Role** : `Mobile Application Developer`
+- **Focus** : `Flutter // Android // Cross-Platform`
+- **Status** : `⚡ ONLINE — Crafting High-Performance Apps`
 
-Seorang developer yang membangun pengalaman mobile
-yang **seamless**, **responsif**, dan **elegan**.
-Dari wireframe hingga production — setiap pixel
-diperlakukan seperti resource langka dalam game.
+---
 
-> *"Code is the weapon. The app is the battlefield."*
+Dedicated **Mobile App Engineer** yang berfokus pada pengembangan aplikasi **Flutter** & **Android** berkategori *high-performance*, **pixel-perfect**, dan kaya akan *micro-interactions*.
+
+Menerapkan prinsip **Clean Architecture**, pengelolaan state yang efisien, serta pengalaman UI/UX yang responsif dan intuitif layaknya game modern.
+
+> *"Clean code is the foundation. Exceptional UI is the experience."*
 
 </td>
 <td width="45%" valign="top">
 
-### `> skill_tree.exe`
+### `> skill_matrix.exe`
 
-**[ PRIMARY STACK ]**
+**[ CORE STACK ]**
 
-![Flutter](https://img.shields.io/badge/Flutter-0D0D0D?style=for-the-badge&logo=flutter&logoColor=00FFFF)
-![Dart](https://img.shields.io/badge/Dart-0D0D0D?style=for-the-badge&logo=dart&logoColor=A855F7)
+<img src="https://img.shields.io/badge/Flutter-0D0D0D?style=for-the-badge&logo=flutter&logoColor=00FFFF" alt="Flutter"/>
+<img src="https://img.shields.io/badge/Dart-0D0D0D?style=for-the-badge&logo=dart&logoColor=A855F7" alt="Dart"/>
 
-**[ TOOLS & ENV ]**
+**[ DEV TOOLS & ENV ]**
 
-![VS Code](https://img.shields.io/badge/VS%20Code-0D0D0D?style=for-the-badge&logo=visualstudiocode&logoColor=00FFFF)
-![Git](https://img.shields.io/badge/Git-0D0D0D?style=for-the-badge&logo=git&logoColor=A855F7)
-![Android](https://img.shields.io/badge/Android-0D0D0D?style=for-the-badge&logo=android&logoColor=00FFFF)
-![Termux](https://img.shields.io/badge/Termux-0D0D0D?style=for-the-badge&logo=gnometerminal&logoColor=A855F7)
+<img src="https://img.shields.io/badge/Android-0D0D0D?style=for-the-badge&logo=android&logoColor=00FFFF" alt="Android"/>
+<img src="https://img.shields.io/badge/VS%20Code-0D0D0D?style=for-the-badge&logo=visualstudiocode&logoColor=A855F7" alt="VS Code"/>
+<img src="https://img.shields.io/badge/Git-0D0D0D?style=for-the-badge&logo=git&logoColor=00FFFF" alt="Git"/>
+<img src="https://img.shields.io/badge/Termux-0D0D0D?style=for-the-badge&logo=gnometerminal&logoColor=A855F7" alt="Termux"/>
 
-**[ POWER LEVEL ]**
-```
-Flutter  ████████████░░  88%
-Dart     ███████████░░░  80%
-Git      █████████░░░░░  70%
-UI/UX    ████████░░░░░░  65%
-```
+**[ PROFICIENCY ]**
+
+- ⚡ **Flutter / Dart** `████████████░░ 88%`
+- 📱 **Android Dev** `███████████░░░ 80%`
+- 🔀 **Git / DevOps** `█████████░░░░░ 70%`
+- 🎨 **UI/UX & Motion** `████████░░░░░░ 65%`
 
 </td>
 </tr>
@@ -171,15 +168,15 @@ UI/UX    ████████░░░░░░  65%
 
 <div align="left">
 
-### `🎮  INTERESTS & FACTIONS`
+### `🎮  INTERESTS & FOCUS DOMAINS`
 
-| Faction | Details |
+| Domain / Faction | Overview |
 |:---|:---|
-| 🕹️ **Fighting Games** | Mendalami sinergi & mekanik karakter di **Soulvessel / King of Fighters** — setiap matchup adalah puzzle taktis |
-| ⚔️ **Game Lore** | Menggali universe & lore karakter, dari tier list hingga frame data |
-| 🎌 **Anime Marathon** | Serial epik non-stop — dari shonen klasik hingga isekai gelap penuh plot twist |
-| 📱 **Mobile Dev** | Membangun app yang terasa seperti bermain game — smooth, fast, addictive |
-| 🌐 **Open Source** | Contributing kecil-kecilan, belajar besar-besaran |
+| 📱 **Mobile Architecture** | Merancang aplikasi **Flutter & Android** modern dengan arsitektur bersih, responsif, dan kaya animasi micro-interaction |
+| 🕹️ **Arcade & Competitive Gaming** | Menganalisis sinergi, mekanik karakter, dan *frame data* di **Soulvessel / King of Fighters** — mengasah analisa strategis |
+| ⚔️ **Technical Lore & Docs** | Mendokumentasikan arsitektur sistem, alur logika aplikasi, serta *best practices* pengembangan perangkat lunak |
+| 🎌 **Creative Culture & Media** | Menikmati narasi epik animasi & estetika **Cyberpunk / Pixel Art** sebagai inspirasi visual dan UI/UX modern |
+| 🌐 **Open Source Exploration** | Mengeksplorasi modul open source, berkolaborasi dengan komunitas developer, dan terus mengasah skill teknis |
 
 </div>
 
