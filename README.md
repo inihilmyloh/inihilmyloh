@@ -1,36 +1,31 @@
-<!-- ██████████████████████████████████████████████████████████████ -->
-<!--            NEON CYBERPUNK GAMER — PLAYER PROFILE              -->
-<!--                  github.com/inihilmyloh                       -->
-<!-- ██████████████████████████████████████████████████████████████ -->
+<!-- ████████████████████████████████████████████████████████████ -->
+<!--          NEON CYBERPUNK GAMER — PLAYER PROFILE             -->
+<!--                github.com/inihilmyloh                      -->
+<!-- ████████████████████████████████████████████████████████████ -->
 
 <div align="center">
 
-<!-- ══════════════════════════════════════════════════ -->
-<!--         NICKNAME BANNER — capsule-render           -->
-<!-- ══════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════ -->
+<!--   NICKNAME HEADER — transparent bg + lightsaber       -->
+<!-- ══════════════════════════════════════════════════════ -->
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=inihilmyloh&fontSize=70&fontColor=00FFFF&fontAlignY=38&desc=Mobile%20App%20Developer%20%7C%20Flutter%20Engineer&descAlignY=58&descSize=18&descColor=A855F7&animation=twinkling&stroke=A855F7&strokeWidth=2"
-  alt="inihilmyloh — Neon Cyberpunk Header"
+  src="https://capsule-render.vercel.app/api?type=transparent&height=160&text=%F0%9F%94%B5%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%20inihilmyloh%20%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%F0%9F%94%B5&fontSize=42&fontColor=00FFFF&desc=Mobile%20App%20Developer%20%7C%20Flutter%20Engineer%20%7C%20Android&descColor=A855F7&descSize=16&animation=twinkling&fontAlign=50&descAlign=50"
+  alt="inihilmyloh"
   width="100%"
 />
 
-<!-- ══════════════════════════════════════════════════ -->
-<!--              ANIMATED TYPING SUBTITLE             -->
-<!-- ══════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════ -->
+<!--              ANIMATED TYPING SUBTITLE                  -->
+<!-- ══════════════════════════════════════════════════════ -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=3000&pause=1000&color=00FFFF&background=00000000&center=true&vCenter=true&width=700&lines=%5B+WELCOME+TO+PLAYER+PROFILE+%5D;%5B+LOADING+MOBILE+DEV+DATA...+%5D;%5B+Flutter+%2F+Dart+%2F+Android+%2F+Termux+%5D;%5B+SYSTEM+READY.+LET'S+GO.+%5D"
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=3000&pause=1000&color=00FFFF&background=00000000&center=true&vCenter=true&width=700&lines=%5B+WELCOME+TO+PLAYER+PROFILE+%5D;%5B+LOADING+MOBILE+DEV+DATA...+%5D;%5B+Flutter+%2F+Dart+%2F+Android+%2F+Termux+%5D;%5B+SYSTEM+READY.+LET%27S+GO.+%5D"
      alt="Player Profile Typing" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=4500&pause=2000&color=A855F7&background=00000000&center=true&vCenter=true&width=620&lines=Mobile+App+Developer+%7C+Flutter+Enjoyer+%7C+Code+%26+Anime+Supremacy"
-     alt="Subtitle" />
-
-<br/>
-
 <!-- neon line divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 
 </div>
 
@@ -54,8 +49,8 @@ server  : Android / Cross-Platform
 status  : ⚡ ONLINE — Currently Building
 ```
 
-Seorang developer yang membangun pengalaman
-mobile yang **seamless**, **responsif**, dan **elegan**.
+Seorang developer yang membangun pengalaman mobile
+yang **seamless**, **responsif**, dan **elegan**.
 Dari wireframe hingga production — setiap pixel
 diperlakukan seperti resource langka dalam game.
 
@@ -106,9 +101,9 @@ UI/UX    ████████░░░░░░  65%
 
 <a href="https://github.com/inihilmyloh">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=inihilmyloh&theme=radical&no-bg=false&no-frame=false&column=6&margin-w=6&margin-h=6"
-    alt="GitHub Profile Trophies"
-    width="100%"
+    src="https://github-profile-trophy.vercel.app/?username=inihilmyloh&theme=radical&no-bg=false&no-frame=false&column=6&margin-w=8&margin-h=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C"
+    alt="GitHub Trophies"
+    width="98%"
   />
 </a>
 
@@ -130,30 +125,27 @@ UI/UX    ████████░░░░░░  65%
 
 <br/>
 
-<!-- GitHub Readme Stats — dark bg, purple border, neon cyan -->
 <a href="https://github.com/inihilmyloh">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=inihilmyloh&show_icons=true&bg_color=0D0D0D&title_color=00FFFF&text_color=C0C0C0&icon_color=A855F7&border_color=A855F7&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github&custom_title=◈%20PLAYER%20STATS%20(Last%20365%20Days)"
+    height="195"
+    src="https://github-readme-stats.vercel.app/api?username=inihilmyloh&show_icons=true&theme=tokyonight&bg_color=0D0D0D&title_color=00FFFF&text_color=C0C0C0&icon_color=A855F7&border_color=A855F7&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"
     alt="GitHub Stats"
-    height="190"
   />
 </a>
-&nbsp;
-<!-- Top Languages — RPG stat build style -->
+&nbsp;&nbsp;
 <a href="https://github.com/inihilmyloh">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=inihilmyloh&layout=compact&bg_color=0D0D0D&title_color=00FFFF&text_color=C0C0C0&border_color=A855F7&hide_border=false&langs_count=8&custom_title=◈%20LANGUAGE%20BUILD%20(Top%20%25)"
+    height="195"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=inihilmyloh&layout=compact&theme=tokyonight&bg_color=0D0D0D&title_color=00FFFF&text_color=C0C0C0&border_color=A855F7&hide_border=false&langs_count=8"
     alt="Top Languages"
-    height="190"
   />
 </a>
 
 <br/><br/>
 
-<!-- GitHub Streak Stats — neon purple & cyan -->
 <a href="https://git.io/streak-stats">
   <img
-    src="https://streak-stats.demolab.com?user=inihilmyloh&theme=radical&background=0D0D0D&stroke=A855F7&ring=00FFFF&fire=A855F7&currStreakNum=00FFFF&sideNums=C0C0C0&currStreakLabel=00FFFF&sideLabels=A855F7&dates=666666&border=A855F7&hide_border=false"
+    src="https://streak-stats.demolab.com?user=inihilmyloh&theme=radical&background=0D0D0D&stroke=A855F7&ring=00FFFF&fire=A855F7&currStreakNum=00FFFF&sideNums=C0C0C0&currStreakLabel=00FFFF&sideLabels=A855F7&dates=666666&border=A855F7&hide_border=false&mode=weekly"
     alt="GitHub Streak"
     width="60%"
   />
@@ -161,10 +153,9 @@ UI/UX    ████████░░░░░░  65%
 
 <br/><br/>
 
-<!-- GitHub Activity Graph — cyberpunk neon green/purple -->
 <a href="https://github.com/inihilmyloh">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=inihilmyloh&bg_color=0D0D0D&color=00FFFF&line=A855F7&point=00FFFF&area=true&area_color=A855F7&hide_border=false&border_color=A855F7&custom_title=◈%20ACTIVITY%20GRAPH%20(Contribution%20Timeline)"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=inihilmyloh&bg_color=0D0D0D&color=00FFFF&line=A855F7&point=00FFFF&area=true&area_color=A855F7&hide_border=false&border_color=A855F7&custom_title=◈%20ACTIVITY%20GRAPH%20—%20Contribution%20Timeline"
     alt="GitHub Activity Graph"
     width="95%"
   />
@@ -179,7 +170,7 @@ UI/UX    ████████░░░░░░  65%
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════════ -->
-<!--           SNAKE CONTRIBUTION ANIMATION (via Actions)           -->
+<!--           SNAKE CONTRIBUTION ANIMATION                         -->
 <!-- ══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -195,12 +186,10 @@ UI/UX    ████████░░░░░░  65%
     srcset="https://raw.githubusercontent.com/inihilmyloh/inihilmyloh/output/github-contribution-grid-snake.svg" />
   <img
     src="https://raw.githubusercontent.com/inihilmyloh/inihilmyloh/output/github-contribution-grid-snake-dark.svg"
-    alt="🐍 Snake Eating Contributions"
+    alt="Snake Eating Contributions"
     width="100%"
   />
 </picture>
-
-> ⚙️ **Snake otomatis update setiap hari** via GitHub Actions (`snake.yml` sudah terpasang di repo ini)
 
 <br/>
 
@@ -221,9 +210,9 @@ UI/UX    ████████░░░░░░  65%
 | Faction | Details |
 |:---|:---|
 | 🕹️ **Fighting Games** | Mendalami sinergi & mekanik karakter di **Soulvessel / King of Fighters** — setiap matchup adalah puzzle taktis |
-| ⚔️ **Game Lore** | Menggali universe & lore karakter, dari tier list hingga frame data yang detail |
+| ⚔️ **Game Lore** | Menggali universe & lore karakter, dari tier list hingga frame data |
 | 🎌 **Anime Marathon** | Serial epik non-stop — dari shonen klasik hingga isekai gelap penuh plot twist |
-| 📱 **Mobile Dev** | Membangun app yang terasa seperti bermain game — smooth, fast, dan addictive |
+| 📱 **Mobile Dev** | Membangun app yang terasa seperti bermain game — smooth, fast, addictive |
 | 🌐 **Open Source** | Contributing kecil-kecilan, belajar besar-besaran |
 
 </div>
