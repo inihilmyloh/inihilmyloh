@@ -86,38 +86,12 @@ UI/UX    ████████░░░░░░  65%
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════════ -->
-<!--                   TROPHY SHOWCASE                             -->
-<!-- ══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
-
-### `⚔️  ACHIEVEMENT BOARD — TROPHY ROOM`
-
-<br/>
-
-<a href="https://github.com/inihilmyloh">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=inihilmyloh&theme=radical&no-bg=false&no-frame=false&margin-w=15&margin-h=15"
-    alt="GitHub Trophies"
-    width="98%"
-  />
-</a>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
-
-</div>
-
-<br/>
-
-<!-- ══════════════════════════════════════════════════════════════ -->
 <!--               CONTRIBUTION STATS — LAST YEAR                 -->
 <!-- ══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 
 ### `📊  GRINDING STATS — CONTRIBUTION LOG`
 
@@ -126,7 +100,7 @@ UI/UX    ████████░░░░░░  65%
 <a href="https://github.com/inihilmyloh">
   <img
     height="195"
-    src="https://github-readme-stats.vercel.app/api?username=inihilmyloh&show_icons=true&bg_color=0D0D0D&title_color=00FFFF&text_color=C0C0C0&icon_color=A855F7&border_color=A855F7&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github"
+    src="https://github-stats-extended.vercel.app/api?username=inihilmyloh&show_icons=true&bg_color=0D0D0D&title_color=00FFFF&text_color=C0C0C0&icon_color=A855F7&border_color=A855F7&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github"
     alt="GitHub Stats"
   />
 </a>
@@ -134,7 +108,7 @@ UI/UX    ████████░░░░░░  65%
 <a href="https://github.com/inihilmyloh">
   <img
     height="195"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=inihilmyloh&layout=compact&bg_color=0D0D0D&title_color=00FFFF&text_color=C0C0C0&border_color=A855F7&hide_border=false&langs_count=8"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=inihilmyloh&layout=compact&bg_color=0D0D0D&title_color=00FFFF&text_color=C0C0C0&border_color=A855F7&hide_border=false&langs_count=8"
     alt="Top Languages"
   />
 </a>
@@ -177,17 +151,11 @@ UI/UX    ████████░░░░░░  65%
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/inihilmyloh/inihilmyloh/output/github-contribution-grid-pacman-dark.svg" />
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/inihilmyloh/inihilmyloh/output/github-contribution-grid-pacman.svg" />
-  <img
-    src="https://raw.githubusercontent.com/inihilmyloh/inihilmyloh/output/github-contribution-grid-pacman-dark.svg"
-    alt="🕹️ Pac-Man Contribution Game"
-    width="100%"
-  />
-</picture>
+<img
+  src="https://raw.githubusercontent.com/inihilmyloh/inihilmyloh/output/pacman.svg"
+  alt="🕹️ Pac-Man Contribution Game"
+  width="100%"
+/>
 
 <br/>
 
