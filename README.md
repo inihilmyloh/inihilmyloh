@@ -152,7 +152,7 @@ UI/UX    ████████░░░░░░  65%
 <br/>
 
 <img
-  src="https://raw.githubusercontent.com/inihilmyloh/inihilmyloh/output/pacman.svg"
+  src="https://raw.githubusercontent.com/inihilmyloh/inihilmyloh/output/pacman-contribution-graph-dark.svg"
   alt="🕹️ Pac-Man Contribution Game"
   width="100%"
 />
