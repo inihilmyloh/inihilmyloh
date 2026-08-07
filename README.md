@@ -11,7 +11,7 @@
 
 <img
   src="https://raw.githubusercontent.com/inihilmyloh/inihilmyloh/main/assets/lightsaber-header.svg"
-  alt="inihilmyloh — Neon Cyberpunk Player Profile"
+  alt="iZlude — Neon Cyberpunk Player Profile"
   width="100%"
 />
 

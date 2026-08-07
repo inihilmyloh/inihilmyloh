@@ -126,9 +126,9 @@
 
   <!-- MAIN NAME — large, cyan glow -->
   <text x="218" y="90"
-        font-family="'Courier New', Courier, monospace" font-size="28"
-        fill="#00ffff" font-weight="900" letter-spacing="1.5"
-        filter="url(#glow2)">inihilmyloh</text>
+        font-family="'Courier New', Courier, monospace" font-size="38"
+        fill="#00ffff" font-weight="900" letter-spacing="3"
+        filter="url(#glow2)">iZlude</text>
 
   <!-- Name underline -->
   <rect x="218" y="97" width="535" height="1" fill="#00ffff" opacity="0.2"/>
