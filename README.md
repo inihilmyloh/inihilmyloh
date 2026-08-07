@@ -10,7 +10,7 @@
 <!-- ══════════════════════════════════════════════════════════════ -->
 
 <img
-  src="https://raw.githubusercontent.com/inihilmyloh/inihilmyloh/main/assets/lightsaber-header.svg"
+  src="https://raw.githubusercontent.com/inihilmyloh/inihilmyloh/main/assets/lightsaber-header.svg?v=2"
   alt="iZlude — Neon Cyberpunk Player Profile"
   width="100%"
 />

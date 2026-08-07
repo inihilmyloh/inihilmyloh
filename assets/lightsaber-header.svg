@@ -139,7 +139,7 @@
         fill="#a3e635" letter-spacing="1">Software Engineer  //  Mobile  //  Web  //  Backend</text>
 
   <!-- Blinking cursor -->
-  <rect x="552" y="110" width="8" height="13" fill="#a3e635" opacity="0.9">
+  <rect x="625" y="110" width="8" height="13" fill="#a3e635" opacity="0.9">
     <animate attributeName="opacity" values="0.9;0;0.9" dur="1.1s" repeatCount="indefinite"/>
   </rect>
 
