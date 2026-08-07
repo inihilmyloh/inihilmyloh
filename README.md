@@ -18,7 +18,7 @@
 <br/>
 
 <!-- Pixel font typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=3000&pause=1200&color=00FFFF&background=00000000&center=true&vCenter=true&width=700&lines=PLAYER+1+READY...;MOBILE+APP+DEVELOPER;FLUTTER+%2F+DART+%2F+ANDROID;SYSTEM+ONLINE...+LET%27S+GO"
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=3000&pause=1200&color=00FFFF&background=00000000&center=true&vCenter=true&width=750&lines=PLAYER+1+READY...;SOFTWARE+ENGINEER+%2F+MULTI-PLATFORM+DEV;MOBILE+%2F+WEB+%2F+BACKEND+SYSTEMS;FLUTTER+%2F+NODE.JS+%2F+TYPESCRIPT;SYSTEM+ONLINE...+LET%27S+GO"
      alt="Pixel Typing" />
 
 <br/>
