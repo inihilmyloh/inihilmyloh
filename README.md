@@ -99,7 +99,7 @@ UI/UX    ████████░░░░░░  65%
 
 <a href="https://github.com/inihilmyloh">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=inihilmyloh&theme=radical&no-bg=false&no-frame=false&column=6&margin-w=8&margin-h=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C"
+    src="https://github-profile-trophy.vercel.app/?username=inihilmyloh&theme=radical&no-bg=false&no-frame=false&margin-w=15&margin-h=15"
     alt="GitHub Trophies"
     width="98%"
   />
@@ -126,7 +126,7 @@ UI/UX    ████████░░░░░░  65%
 <a href="https://github.com/inihilmyloh">
   <img
     height="195"
-    src="https://github-readme-stats.vercel.app/api?username=inihilmyloh&show_icons=true&bg_color=0D0D0D&title_color=00FFFF&text_color=C0C0C0&icon_color=A855F7&border_color=A855F7&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github&custom_title=◈ PLAYER STATS (Last 365 Days)"
+    src="https://github-readme-stats.vercel.app/api?username=inihilmyloh&show_icons=true&bg_color=0D0D0D&title_color=00FFFF&text_color=C0C0C0&icon_color=A855F7&border_color=A855F7&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github"
     alt="GitHub Stats"
   />
 </a>
@@ -134,7 +134,7 @@ UI/UX    ████████░░░░░░  65%
 <a href="https://github.com/inihilmyloh">
   <img
     height="195"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=inihilmyloh&layout=compact&bg_color=0D0D0D&title_color=00FFFF&text_color=C0C0C0&border_color=A855F7&hide_border=false&langs_count=8&custom_title=◈ LANGUAGE BUILD (Top %25)"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=inihilmyloh&layout=compact&bg_color=0D0D0D&title_color=00FFFF&text_color=C0C0C0&border_color=A855F7&hide_border=false&langs_count=8"
     alt="Top Languages"
   />
 </a>
@@ -153,7 +153,7 @@ UI/UX    ████████░░░░░░  65%
 
 <a href="https://github.com/inihilmyloh">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=inihilmyloh&bg_color=0D0D0D&color=00FFFF&line=A855F7&point=00FFFF&area=true&area_color=A855F7&hide_border=false&border_color=A855F7&custom_title=◈ ACTIVITY GRAPH — Contribution Timeline"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=inihilmyloh&bg_color=0D0D0D&color=00FFFF&line=A855F7&point=00FFFF&area=true&area_color=A855F7&hide_border=false&border_color=A855F7"
     alt="GitHub Activity Graph"
     width="95%"
   />
@@ -168,23 +168,23 @@ UI/UX    ████████░░░░░░  65%
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════════ -->
-<!--     BREAKOUT CONTRIBUTION GAME — Bricks & Contributions      -->
+<!--     PAC-MAN CONTRIBUTION GAME — Eating Contributions         -->
 <!-- ══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-### `🕹️  CONTRIBUTION ARENA — BREAKOUT MODE`
+### `🕹️  CONTRIBUTION ARENA — PAC-MAN MODE`
 
 <br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/inihilmyloh/inihilmyloh/output/github-contribution-grid-breakout-dark.svg" />
+    srcset="https://raw.githubusercontent.com/inihilmyloh/inihilmyloh/output/github-contribution-grid-pacman-dark.svg" />
   <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/inihilmyloh/inihilmyloh/output/github-contribution-grid-breakout.svg" />
+    srcset="https://raw.githubusercontent.com/inihilmyloh/inihilmyloh/output/github-contribution-grid-pacman.svg" />
   <img
-    src="https://raw.githubusercontent.com/inihilmyloh/inihilmyloh/output/github-contribution-grid-breakout-dark.svg"
-    alt="🕹️ Breakout Contribution Game"
+    src="https://raw.githubusercontent.com/inihilmyloh/inihilmyloh/output/github-contribution-grid-pacman-dark.svg"
+    alt="🕹️ Pac-Man Contribution Game"
     width="100%"
   />
 </picture>
