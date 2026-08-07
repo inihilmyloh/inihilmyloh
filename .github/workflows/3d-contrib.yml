@@ -1,0 +1,49 @@
+name: Generate 3D Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 18 * * *"   # Every day at 18:00 UTC (01:00 WIB)
+  workflow_dispatch:        # Manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Generate 3D Contribution Graph
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate 3D Contribution Graph
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: inihilmyloh
+          SETTING_JSON: |
+            {
+              "githubUserName": "inihilmyloh",
+              "backgroundColor": "#0a0a0a",
+              "foregroundColor": "#ffffff",
+              "strongColor": "#5d7c15",
+              "mediumColor": "#3d5a0e",
+              "weakColor": "#1a2a08",
+              "skyColor": "#1a1a1a",
+              "sunColor": "#5d7c15",
+              "baseColor": "#3b2a1a",
+              "accentColor": "#a0784a",
+              "textColor": "#5d7c15",
+              "tz": "Asia/Jakarta"
+            }
+
+      - name: Push 3D contrib graph to repository
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./profile-3d-contrib
+          publish_branch: output
+          destination_dir: profile-3d-contrib
+          keep_files: true
+          commit_message: "chore: update 3D contribution graph [skip ci]"

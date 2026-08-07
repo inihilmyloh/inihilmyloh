@@ -1,151 +1,146 @@
-<!-- ████████████████████████████████████████████████████████████ -->
-<!--          NEON CYBERPUNK GAMER — PLAYER PROFILE             -->
-<!--                github.com/inihilmyloh                      -->
-<!-- ████████████████████████████████████████████████████████████ -->
+<!-- ███████████████████████████████████████████████████████████ -->
+<!--          ⛏️  MINECRAFT THEME — GITHUB PROFILE  ⛏️          -->
+<!--                  github.com/inihilmyloh                    -->
+<!-- ███████████████████████████████████████████████████████████ -->
 
 <div align="center">
 
-<!-- ══════════════════════════════════════════════════════ -->
-<!--   NICKNAME HEADER — transparent bg + lightsaber       -->
-<!-- ══════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--                  MINECRAFT BANNER GIF                     -->
+<!-- ══════════════════════════════════════════════════════════ -->
 
 <img
-  src="https://capsule-render.vercel.app/api?type=transparent&height=160&text=%F0%9F%94%B5%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%20inihilmyloh%20%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%F0%9F%94%B5&fontSize=42&fontColor=00FFFF&desc=Mobile%20App%20Developer%20%7C%20Flutter%20Engineer%20%7C%20Android&descColor=A855F7&descSize=16&animation=twinkling&fontAlign=50&descAlign=50"
-  alt="inihilmyloh"
+  src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWp5bGY3dTJiYTQxcHc3cDM4OHFsbzJ0ajZ2M2J3b29lMGZ4c3VkZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LmBsnpDCuturMhtLfw/giphy.gif"
+  alt="Minecraft Banner"
   width="100%"
 />
 
-<!-- ══════════════════════════════════════════════════════ -->
-<!--              ANIMATED TYPING SUBTITLE                  -->
-<!-- ══════════════════════════════════════════════════════ -->
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=3000&pause=1000&color=00FFFF&background=00000000&center=true&vCenter=true&width=700&lines=%5B+WELCOME+TO+PLAYER+PROFILE+%5D;%5B+LOADING+MOBILE+DEV+DATA...+%5D;%5B+Flutter+%2F+Dart+%2F+Android+%2F+Termux+%5D;%5B+SYSTEM+READY.+LET%27S+GO.+%5D"
-     alt="Player Profile Typing" />
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--              JOIN MESSAGE — PIXEL FONT                    -->
+<!-- ══════════════════════════════════════════════════════════ -->
+
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=3500&pause=1500&color=5D7C15&background=00000000&center=true&vCenter=true&width=750&lines=%E2%9A%A1+inihilmyloh+has+joined+the+game!;%F0%9F%8C%8D+Welcome+to+my+Server!;%E2%9B%8F%EF%B8%8F+Mobile+App+Dev+%2F+Flutter+Engineer;%F0%9F%9F%A9+Survival+Mode+%3A+ALWAYS+ON"
+     alt="Minecraft Join Message" />
 
 <br/>
 
-<!-- neon line divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
+<!-- dirt block divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=3b2a1a&height=6&section=header" width="100%"/>
 
 </div>
 
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════════ -->
-<!--              TWO-COLUMN LAYOUT: BIO  |  SKILLS                -->
+<!--        CHARACTER STATS — ABOUT ME (Survival Mode)            -->
 <!-- ══════════════════════════════════════════════════════════════ -->
 
-<table>
-<tr>
-<td width="55%" valign="top">
+<div align="center">
 
-### `> whoami`
+### `📋  CHARACTER SHEET`
 
-```yaml
-name    : inihilmyloh
-class   : Mobile App Developer
-role    : Flutter Engineer
-server  : Android / Cross-Platform
-status  : ⚡ ONLINE — Currently Building
+</div>
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║              ⚔️  PLAYER: inihilmyloh                         ║
+╠══════════════════════════════════════════════════════════════╣
+║  ❤️  Health Points  : ██████████  100 / 100                  ║
+║  ⭐  Experience     : ████████░░  LVL 04 — Mobile Dev        ║
+║  🛡️  Armor         : Flutter Shield (Enchanted)              ║
+║  🗡️  Weapon        : Dart Sword +5                           ║
+║  🌍  Server        : Android / Cross-Platform                 ║
+║  📍  Biome         : App Development Zone                    ║
+║  🎯  Current Quest : Building mobile apps that feel alive    ║
+║  ⚡  Status        : ONLINE — Survival Mode Active           ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
-Seorang developer yang membangun pengalaman mobile
-yang **seamless**, **responsif**, dan **elegan**.
-Dari wireframe hingga production — setiap pixel
-diperlakukan seperti resource langka dalam game.
+<br/>
 
-> *"Code is the weapon. The app is the battlefield."*
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--            INVENTORY — TECH STACK                            -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
-</td>
-<td width="45%" valign="top">
+<div align="center">
 
-### `> skill_tree.exe`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=3b2a1a&height=6" width="100%"/>
 
-**[ PRIMARY STACK ]**
+### `🎒  INVENTORY  —  Active Items`
 
-![Flutter](https://img.shields.io/badge/Flutter-0D0D0D?style=for-the-badge&logo=flutter&logoColor=00FFFF)
-![Dart](https://img.shields.io/badge/Dart-0D0D0D?style=for-the-badge&logo=dart&logoColor=A855F7)
+<br/>
 
-**[ TOOLS & ENV ]**
+<!-- Primary weapons / tools — Grass Green #5d7c15 -->
+<img src="https://img.shields.io/badge/Flutter-%235d7c15.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+<img src="https://img.shields.io/badge/Dart-%235d7c15.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
 
-![VS Code](https://img.shields.io/badge/VS%20Code-0D0D0D?style=for-the-badge&logo=visualstudiocode&logoColor=00FFFF)
-![Git](https://img.shields.io/badge/Git-0D0D0D?style=for-the-badge&logo=git&logoColor=A855F7)
-![Android](https://img.shields.io/badge/Android-0D0D0D?style=for-the-badge&logo=android&logoColor=00FFFF)
-![Termux](https://img.shields.io/badge/Termux-0D0D0D?style=for-the-badge&logo=gnometerminal&logoColor=A855F7)
+<br/>
+
+<!-- Tools — Dirt Brown #8B6040 -->
+<img src="https://img.shields.io/badge/VS%20Code-%238B6040.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+<img src="https://img.shields.io/badge/Git-%238B6040.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+
+<br/>
+
+<!-- Secondary — Stone Gray #808080 -->
+<img src="https://img.shields.io/badge/Android-%23808080.svg?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
+<img src="https://img.shields.io/badge/Termux-%23808080.svg?style=for-the-badge&logo=gnometerminal&logoColor=white" alt="Termux"/>
+
+<br/>
 
 **[ POWER LEVEL ]**
+
 ```
-Flutter  ████████████░░  88%
-Dart     ███████████░░░  80%
-Git      █████████░░░░░  70%
-UI/UX    ████████░░░░░░  65%
+⚔️  Flutter   ████████████░░  88 / 100  [ Enchanted ]
+🗡️  Dart      ███████████░░░  80 / 100  [ Sharp V   ]
+🛡️  Git       █████████░░░░░  70 / 100  [ Protected ]
+🎨  UI/UX     ████████░░░░░░  65 / 100  [ Crafted   ]
 ```
 
-</td>
-</tr>
-</table>
-
 <br/>
 
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                   TROPHY SHOWCASE                             -->
-<!-- ══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
-
-### `⚔️  ACHIEVEMENT BOARD — TROPHY ROOM`
-
-<br/>
-
-<a href="https://github.com/inihilmyloh">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=inihilmyloh&theme=radical&no-bg=false&no-frame=false&column=6&margin-w=8&margin-h=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C"
-    alt="GitHub Trophies"
-    width="98%"
-  />
-</a>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=3b2a1a&height=6" width="100%"/>
 
 </div>
 
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════════ -->
-<!--               CONTRIBUTION STATS — LAST YEAR                  -->
+<!--               PLAYER STATS — GITHUB STATS                    -->
 <!-- ══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-### `📊  GRINDING STATS — CONTRIBUTION LOG`
+### `📊  PLAYER STATS  —  Server Dashboard`
 
 <br/>
 
+<!-- GitHub Stats — Minecraft: dark bg, grass green title, dirt icon -->
 <a href="https://github.com/inihilmyloh">
   <img
     height="195"
-    src="https://github-readme-stats.vercel.app/api?username=inihilmyloh&show_icons=true&theme=tokyonight&bg_color=0D0D0D&title_color=00FFFF&text_color=C0C0C0&icon_color=A855F7&border_color=A855F7&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"
+    src="https://github-readme-stats.vercel.app/api?username=inihilmyloh&show_icons=true&bg_color=0f0f0f&title_color=5d7c15&text_color=a0a0a0&icon_color=8B6040&border_color=3b2a1a&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github&custom_title=⚡ GRINDING STATS — Last 365 Days"
     alt="GitHub Stats"
   />
 </a>
 &nbsp;&nbsp;
+<!-- Top Languages — dirt/grass palette -->
 <a href="https://github.com/inihilmyloh">
   <img
     height="195"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=inihilmyloh&layout=compact&theme=tokyonight&bg_color=0D0D0D&title_color=00FFFF&text_color=C0C0C0&border_color=A855F7&hide_border=false&langs_count=8"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=inihilmyloh&layout=compact&bg_color=0f0f0f&title_color=5d7c15&text_color=a0a0a0&border_color=3b2a1a&hide_border=false&langs_count=8&custom_title=📦 LANGUAGE BUILD — Top Skills"
     alt="Top Languages"
   />
 </a>
 
 <br/><br/>
 
+<!-- Streak Stats — Minecraft dirt/grass palette -->
 <a href="https://git.io/streak-stats">
   <img
-    src="https://streak-stats.demolab.com?user=inihilmyloh&theme=radical&background=0D0D0D&stroke=A855F7&ring=00FFFF&fire=A855F7&currStreakNum=00FFFF&sideNums=C0C0C0&currStreakLabel=00FFFF&sideLabels=A855F7&dates=666666&border=A855F7&hide_border=false&mode=weekly"
+    src="https://streak-stats.demolab.com?user=inihilmyloh&background=0f0f0f&stroke=3b2a1a&ring=5d7c15&fire=8B6040&currStreakNum=5d7c15&sideNums=a0a0a0&currStreakLabel=5d7c15&sideLabels=8B6040&dates=555555&border=3b2a1a&hide_border=false"
     alt="GitHub Streak"
     width="60%"
   />
@@ -153,9 +148,10 @@ UI/UX    ████████░░░░░░  65%
 
 <br/><br/>
 
+<!-- Activity Graph — Minecraft dark grass theme -->
 <a href="https://github.com/inihilmyloh">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=inihilmyloh&bg_color=0D0D0D&color=00FFFF&line=A855F7&point=00FFFF&area=true&area_color=A855F7&hide_border=false&border_color=A855F7&custom_title=◈%20ACTIVITY%20GRAPH%20—%20Contribution%20Timeline"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=inihilmyloh&bg_color=0f0f0f&color=5d7c15&line=8B6040&point=5d7c15&area=true&area_color=5d7c15&hide_border=false&border_color=3b2a1a&custom_title=🌿 ACTIVITY GRAPH — Block Placement Timeline"
     alt="GitHub Activity Graph"
     width="95%"
   />
@@ -163,78 +159,109 @@ UI/UX    ████████░░░░░░  65%
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=3b2a1a&height=6" width="100%"/>
 
 </div>
 
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════════ -->
-<!--           SNAKE CONTRIBUTION ANIMATION                         -->
+<!--   WORLD GENERATION — 3D ISOMETRIC CONTRIBUTION GRAPH         -->
 <!-- ══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-### `🐍  CONTRIBUTION ARENA — SNAKE MODE`
+### `🌍  WORLD GENERATION  —  My Block Placements (3D Isometric)`
 
 <br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/inihilmyloh/inihilmyloh/output/github-contribution-grid-snake-dark.svg" />
+    srcset="https://raw.githubusercontent.com/inihilmyloh/inihilmyloh/output/profile-3d-contrib/profile-night-green.svg" />
   <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/inihilmyloh/inihilmyloh/output/github-contribution-grid-snake.svg" />
+    srcset="https://raw.githubusercontent.com/inihilmyloh/inihilmyloh/output/profile-3d-contrib/profile-green.svg" />
   <img
-    src="https://raw.githubusercontent.com/inihilmyloh/inihilmyloh/output/github-contribution-grid-snake-dark.svg"
-    alt="Snake Eating Contributions"
+    src="https://raw.githubusercontent.com/inihilmyloh/inihilmyloh/output/profile-3d-contrib/profile-night-green.svg"
+    alt="🌍 3D Isometric Block Placements"
     width="100%"
   />
 </picture>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=3b2a1a&height=6" width="100%"/>
 
 </div>
 
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════════ -->
-<!--               INTERESTS & FACTIONS                             -->
+<!--               TROPHY ROOM — ACHIEVEMENTS                     -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### `🏆  ACHIEVEMENT BOARD  —  Unlocked Trophies`
+
+<br/>
+
+<a href="https://github.com/inihilmyloh">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=inihilmyloh&theme=gruvbox&no-bg=false&no-frame=false&column=6&margin-w=8&margin-h=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C"
+    alt="GitHub Trophies"
+    width="98%"
+  />
+</a>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=3b2a1a&height=6" width="100%"/>
+
+</div>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--               INTERESTS & BIOMES                             -->
 <!-- ══════════════════════════════════════════════════════════════ -->
 
 <div align="left">
 
-### `🎮  INTERESTS & FACTIONS`
+### `🗺️  WORLD MAP  —  Biomes & Interests`
 
-| Faction | Details |
+| Biome | Description |
 |:---|:---|
-| 🕹️ **Fighting Games** | Mendalami sinergi & mekanik karakter di **Soulvessel / King of Fighters** — setiap matchup adalah puzzle taktis |
-| ⚔️ **Game Lore** | Menggali universe & lore karakter, dari tier list hingga frame data |
-| 🎌 **Anime Marathon** | Serial epik non-stop — dari shonen klasik hingga isekai gelap penuh plot twist |
-| 📱 **Mobile Dev** | Membangun app yang terasa seperti bermain game — smooth, fast, addictive |
-| 🌐 **Open Source** | Contributing kecil-kecilan, belajar besar-besaran |
+| 🕹️ **Fighting Arena** | Mendalami sinergi karakter di **Soulvessel / King of Fighters** — setiap match adalah raid |
+| ⚔️ **Nether Lore** | Menggali universe & lore karakter, frame data hingga tier list |
+| 🎌 **Village Library** | Maraton serial anime — shonen klasik hingga isekai gelap |
+| 📱 **Crafting Table** | Membangun app yang terasa seperti bermain game — smooth, fast, addictive |
+| 🌐 **Trading Post** | Contributing open source kecil-kecilan, belajar besar-besaran |
 
 </div>
 
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════════ -->
-<!--                     FOOTER                                    -->
+<!--                     FOOTER                                   -->
 <!-- ══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=GAME%20NOT%20OVER&fontSize=24&fontColor=00FFFF&fontAlignY=65&animation=twinkling"
-  alt="Footer Wave"
+  src="https://capsule-render.vercel.app/api?type=waving&color=3b2a1a&height=120&section=footer&text=Good%20Game.%20Well%20Played.&fontSize=20&fontColor=5d7c15&fontAlignY=65"
+  alt="Footer"
   width="100%"
 />
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=inihilmyloh&style=for-the-badge&color=blueviolet&label=VISITORS+COUNT)
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=9&duration=3000&pause=1000&color=5D7C15&background=00000000&center=true&vCenter=true&width=500&lines=%E2%9A%A1+inihilmyloh+left+the+game.+%5BBYE%5D"
+     alt="Goodbye message" />
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=inihilmyloh&style=for-the-badge&color=3b7a0f&label=PLAYERS+VISITED)
 &nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/inihilmyloh?style=for-the-badge&color=blueviolet&logo=github&label=FOLLOWERS)](https://github.com/inihilmyloh?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/inihilmyloh?style=for-the-badge&color=8B6040&logo=github&label=PARTY+MEMBERS)](https://github.com/inihilmyloh?tab=followers)
 
 </div>
