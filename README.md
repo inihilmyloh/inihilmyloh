@@ -161,6 +161,9 @@ Terbiasa membangun solusi software *end-to-end* — dari merancang arsitektur da
 />
 
 <br/>
+<a href="https://freepacman.org/" target="_blank">
+  <img src="https://img.shields.io/badge/INSERT_COIN_TO_PLAY-0D0D0D?style=for-the-badge&logo=retroarch&logoColor=00FFFF&label=START&labelColor=A855F7&color=0D0D0D" alt="Play Game"/>
+</a>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 
