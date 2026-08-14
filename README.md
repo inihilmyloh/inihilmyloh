@@ -1,24 +1,25 @@
 <!-- ████████████████████████████████████████████████████████████ -->
 <!--          NEON CYBERPUNK GAMER — PLAYER PROFILE             -->
+<!--       Aesthetic inspired by Silver Wolf (Honkai: Star Rail) -->
 <!--                github.com/inihilmyloh                      -->
 <!-- ████████████████████████████████████████████████████████████ -->
 
 <div align="center">
 
 <!-- ══════════════════════════════════════════════════════════════ -->
-<!--   NICKNAME CARD — Pixel Gauntlet (Custom SVG)                -->
+<!--   NICKNAME CARD — Quantum Gauntlet, Silver Wolf Style (SVG)  -->
 <!-- ══════════════════════════════════════════════════════════════ -->
 
 <img
   src="https://raw.githubusercontent.com/inihilmyloh/inihilmyloh/main/assets/gauntlet-header.svg?v=1"
-  alt="iZlude — Neon Cyberpunk Player Profile"
+  alt="iZlude — Neon Cyberpunk Player Profile (Silver Wolf LV.999 inspired gauntlet)"
   width="100%"
 />
 
 <br/>
 
 <!-- Pixel font typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=3000&pause=1200&color=00FFFF&background=00000000&center=true&vCenter=true&width=750&lines=PLAYER+1+READY...;SOFTWARE+ENGINEER+%2F+MULTI-PLATFORM+DEV;MOBILE+%2F+WEB+%2F+BACKEND+SYSTEMS;FLUTTER+%2F+NODE.JS+%2F+TYPESCRIPT;SYSTEM+ONLINE...+LET%27S+GO"
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=3000&pause=1200&color=00FFFF&background=00000000&center=true&vCenter=true&width=750&lines=PLAYER+1+READY...;SOFTWARE+ENGINEER+%2F+MULTI-PLATFORM+DEV;MOBILE+%2F+WEB+%2F+BACKEND+SYSTEMS;FLUTTER+%2F+NODE.JS+%2F+TYPESCRIPT;SILVER+WOLF+MODE%3A+ACTIVATED;QUANTUM+HACK+PROTOCOL+LOADED...;SYSTEM+ONLINE...+LET%27S+GO"
      alt="Pixel Typing" />
 
 <br/>
@@ -43,6 +44,7 @@
 - **Role** : `Software Engineer // Multi-Platform Dev`
 - **Focus** : `Mobile App // Web Dev // Backend Systems`
 - **Status** : `⚡ ONLINE — Engineering Full-Stack Solutions`
+- **Aesthetic** : `Silver Wolf LV.999 // Quantum Hacker Theme`
 
 ---
 
@@ -50,7 +52,7 @@ Versatile **Software Engineer** dengan fokus pada ekosistem **Mobile (Flutter/An
 
 Terbiasa membangun solusi software *end-to-end* — dari merancang arsitektur database & API backend, menciptakan antarmuka web yang responsif, hingga mendeploy aplikasi mobile lintas platform berkategori *high-performance* dan *pixel-perfect*.
 
-> *"Building scalable systems, crafting fluid interfaces, writing clean code."*
+> *"Building scalable systems, crafting fluid interfaces, writing clean code — one exploit away from breaking the simulation, just like Silver Wolf would."*
 
 </td>
 <td width="50%" valign="top">
@@ -181,6 +183,7 @@ Terbiasa membangun solusi software *end-to-end* — dari merancang arsitektur da
 
 | Domain / Faction | Overview |
 |:---|:---|
+| 🐺 **Silver Wolf Enjoyer** | **Honkai: Star Rail** — terobsesi sama gaya *quantum hacker* Silver Wolf, jadi mood board utama tema profile ini (gauntlet, sparks, LV.999) |
 | 📱 **Mobile Architecture** | Merancang aplikasi **Flutter & Android** modern dengan arsitektur bersih, responsif, dan kaya animasi micro-interaction |
 | 🕹️ **Arcade & Competitive Gaming** | Menganalisis sinergi, mekanik karakter, dan *frame data* di **Soulvessel / King of Fighters** — mengasah analisa strategis |
 | ⚔️ **Technical Lore & Docs** | Mendokumentasikan arsitektur sistem, alur logika aplikasi, serta *best practices* pengembangan perangkat lunak |
@@ -205,7 +208,7 @@ Terbiasa membangun solusi software *end-to-end* — dari merancang arsitektur da
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=11&duration=3000&pause=1000&color=A855F7&background=00000000&center=true&vCenter=true&width=500&lines=%5B+GAME+NOT+OVER.+NEXT+LEVEL+LOADING...+%5D"
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=11&duration=3000&pause=1000&color=A855F7&background=00000000&center=true&vCenter=true&width=500&lines=%5B+GAME+NOT+OVER.+NEXT+LEVEL+LOADING...+%5D;%5B+SILVER+WOLF+LV.999+APPROVES+%E2%9A%A1+%5D"
      alt="Footer quote" />
 
 <br/>
