@@ -6,11 +6,11 @@
 <div align="center">
 
 <!-- ══════════════════════════════════════════════════════════════ -->
-<!--   NICKNAME CARD — Pixel Lightsaber (Custom SVG)              -->
+<!--   NICKNAME CARD — Pixel Gauntlet (Custom SVG)                -->
 <!-- ══════════════════════════════════════════════════════════════ -->
 
 <img
-  src="https://raw.githubusercontent.com/inihilmyloh/inihilmyloh/main/assets/lightsaber-header.svg?v=2"
+  src="https://raw.githubusercontent.com/inihilmyloh/inihilmyloh/main/assets/gauntlet-header.svg?v=1"
   alt="iZlude — Neon Cyberpunk Player Profile"
   width="100%"
 />
