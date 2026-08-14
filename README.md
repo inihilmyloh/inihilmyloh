@@ -44,7 +44,6 @@
 - **Role** : `Software Engineer // Multi-Platform Dev`
 - **Focus** : `Mobile App // Web Dev // Backend Systems`
 - **Status** : `⚡ ONLINE — Engineering Full-Stack Solutions`
-- **Aesthetic** : `Silver Wolf LV.999 // Quantum Hacker Theme`
 
 ---
 
@@ -52,7 +51,7 @@ Versatile **Software Engineer** dengan fokus pada ekosistem **Mobile (Flutter/An
 
 Terbiasa membangun solusi software *end-to-end* — dari merancang arsitektur database & API backend, menciptakan antarmuka web yang responsif, hingga mendeploy aplikasi mobile lintas platform berkategori *high-performance* dan *pixel-perfect*.
 
-> *"Building scalable systems, crafting fluid interfaces, writing clean code — one exploit away from breaking the simulation, just like Silver Wolf would."*
+> *"Sekarang bayar, besok gratis"*
 
 </td>
 <td width="50%" valign="top">
