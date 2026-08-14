@@ -120,7 +120,7 @@ Terbiasa membangun solusi software *end-to-end* — dari merancang arsitektur da
 
 <a href="https://git.io/streak-stats">
   <img
-    src="https://streak-stats.demolab.com?user=inihilmyloh&background=0D0D0D&stroke=A855F7&ring=00FFFF&fire=A855F7&currStreakNum=00FFFF&sideNums=C0C0C0&currStreakLabel=00FFFF&sideLabels=A855F7&dates=666666&border=A855F7&hide_border=false"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=inihilmyloh&background=0D0D0D&stroke=A855F7&ring=00FFFF&fire=A855F7&currStreakNum=00FFFF&sideNums=C0C0C0&currStreakLabel=00FFFF&sideLabels=A855F7&dates=666666&border=A855F7&hide_border=false"
     alt="GitHub Streak"
     width="60%"
   />
